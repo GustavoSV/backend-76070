@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Gustavo",
+    "lastname": "Sepulveda",
+    "age": 36,
+    "course": "Backend Support"
+  },
+  {
+    "id": 2,
+    "name": "Gustavo",
+    "lastname": "Sepulveda",
+    "age": 36,
+    "course": "Backend Support"
+  },
+  {
+    "id": 3,
+    "name": "Gustavo",
+    "lastname": "Sepulveda",
+    "age": 36,
+    "course": "Backend Support"
+  }
+]

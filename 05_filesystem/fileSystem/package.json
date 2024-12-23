@@ -1,0 +1,13 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs_sync_await.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fs_sync_await.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

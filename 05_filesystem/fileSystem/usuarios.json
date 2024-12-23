@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Maria",
+    "edad": 25,
+    "cargo": "Analista"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": 51,
+    "cargo": "Jefe máximo"
+  },
+  {
+    "nombre": "Marcela",
+    "edad": 32,
+    "cargo": "Supervisora"
+  }
+]
